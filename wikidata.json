@@ -1,0 +1,458 @@
+[
+  {
+    "item": {
+      "value": "Q333028",
+      "label": "Enoch Powell"
+    },
+    "replaces": {
+      "value": "Q334282",
+      "label": "Peter Thorneycroft, Baron Thorneycroft"
+    },
+    "replacedBy": {
+      "value": "Q333275",
+      "label": "Reginald Maudling"
+    },
+    "start": {
+      "value": "1965-07-07T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1968-04-21T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q333028$605CEF66-1E5B-467F-9010-548BB6CFC437"
+  },
+  {
+    "item": {
+      "value": "Q333275",
+      "label": "Reginald Maudling"
+    },
+    "replaces": {
+      "value": "Q333028",
+      "label": "Enoch Powell"
+    },
+    "replacedBy": {
+      "value": "Q5534874",
+      "label": "Geoffrey Rippon"
+    },
+    "start": {
+      "value": "1968-04-21T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1969-01-01T00:00:00Z",
+      "precision": "9"
+    },
+    "statement": "Q333275$A6B5B2A6-E51E-4736-9692-F2C2804D3434"
+  },
+  {
+    "item": {
+      "value": "Q333145",
+      "label": "George Younger, 4th Viscount Younger of Leckie"
+    },
+    "replacedBy": {
+      "value": "Q333362",
+      "label": "Ian Gilmour, Baron Gilmour of Craigmillar"
+    },
+    "start": {
+      "value": "1975-02-18T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1976-01-15T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q333145$186C575A-9D16-4759-810A-843D91903002"
+  },
+  {
+    "item": {
+      "value": "Q333362",
+      "label": "Ian Gilmour, Baron Gilmour of Craigmillar"
+    },
+    "replaces": {
+      "value": "Q333145",
+      "label": "George Younger, 4th Viscount Younger of Leckie"
+    },
+    "replacedBy": {
+      "value": "Q334362",
+      "label": "Fred Mulley"
+    },
+    "start": {
+      "value": "1976-01-15T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1979-05-04T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q333362$FF9D7210-3038-4601-9468-29781943B9A4"
+  },
+  {
+    "item": {
+      "value": "Q333259",
+      "label": "William Rodgers"
+    },
+    "replaces": {
+      "value": "Q334362",
+      "label": "Fred Mulley"
+    },
+    "replacedBy": {
+      "value": "Q4981019",
+      "label": "Brynmor John"
+    },
+    "start": {
+      "value": "1979-06-14T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1980-12-08T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q333259$BE5D7E88-1ECA-4CD5-AC46-DE8A526162C7"
+  },
+  {
+    "item": {
+      "value": "Q333259",
+      "label": "William Rodgers"
+    },
+    "replaces": {
+      "value": "Q333362",
+      "label": "Ian Gilmour, Baron Gilmour of Craigmillar"
+    },
+    "replacedBy": {
+      "value": "Q4981019",
+      "label": "Brynmor John"
+    },
+    "start": {
+      "value": "1979-06-14T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1980-12-08T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q333259$FD1C2F47-EE95-456F-9D8F-D0C5F599CE4A"
+  },
+  {
+    "item": {
+      "value": "Q338044",
+      "label": "Denzil Davies"
+    },
+    "replaces": {
+      "value": "Q6257849",
+      "label": "John Silkin"
+    },
+    "replacedBy": {
+      "value": "Q1672680",
+      "label": "Martin O'Neill, Baron O'Neill of Clackmannan"
+    },
+    "start": {
+      "value": "1984-10-26T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1988-06-14T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q338044$EAA2B5C1-2A16-4F2B-BBD9-F30F14B5B85A"
+  },
+  {
+    "item": {
+      "value": "Q1672680",
+      "label": "Martin O'Neill, Baron O'Neill of Clackmannan"
+    },
+    "replaces": {
+      "value": "Q338044",
+      "label": "Denzil Davies"
+    },
+    "replacedBy": {
+      "value": "Q333397",
+      "label": "David Clark, Baron Clark of Windermere"
+    },
+    "start": {
+      "value": "1988-06-14T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1992-07-18T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q1672680$C90D03E1-06EE-430E-968A-6E4AB72DE394"
+  },
+  {
+    "item": {
+      "value": "Q333397",
+      "label": "David Clark, Baron Clark of Windermere"
+    },
+    "replaces": {
+      "value": "Q1672680",
+      "label": "Martin O'Neill, Baron O'Neill of Clackmannan"
+    },
+    "replacedBy": {
+      "value": "Q9559",
+      "label": "John Major"
+    },
+    "start": {
+      "value": "1992-07-18T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1997-05-02T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q333397$A925D0AB-1499-450C-854E-3AEFA652EB81"
+  },
+  {
+    "item": {
+      "value": "Q259836",
+      "label": "Sir George Young"
+    },
+    "replaces": {
+      "value": "Q333397",
+      "label": "David Clark, Baron Clark of Windermere"
+    },
+    "replacedBy": {
+      "value": "Q333007",
+      "label": "John Maples, Baron Maples"
+    },
+    "start": {
+      "value": "1997-06-11T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1998-06-01T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q259836$1AEBF7D8-8811-44B5-B027-2C4755FF3F40"
+  },
+  {
+    "item": {
+      "value": "Q333007",
+      "label": "John Maples, Baron Maples"
+    },
+    "replaces": {
+      "value": "Q259836",
+      "label": "Sir George Young"
+    },
+    "replacedBy": {
+      "value": "Q302486",
+      "label": "Iain Duncan Smith"
+    },
+    "start": {
+      "value": "1998-06-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1999-06-15T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q333007$F7B1D29D-3E30-423C-88CA-F0D3C6E2CA03"
+  },
+  {
+    "item": {
+      "value": "Q302486",
+      "label": "Iain Duncan Smith"
+    },
+    "replaces": {
+      "value": "Q333007",
+      "label": "John Maples, Baron Maples"
+    },
+    "replacedBy": {
+      "value": "Q727852",
+      "label": "Bernard Jenkin"
+    },
+    "start": {
+      "value": "1999-06-15T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2001-09-13T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q302486$2C885306-B9F6-4D64-8A8C-616604DA1B46"
+  },
+  {
+    "item": {
+      "value": "Q727852",
+      "label": "Bernard Jenkin"
+    },
+    "replaces": {
+      "value": "Q302486",
+      "label": "Iain Duncan Smith"
+    },
+    "replacedBy": {
+      "value": "Q390192",
+      "label": "Nicholas Soames"
+    },
+    "start": {
+      "value": "2001-09-18T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2003-11-06T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q727852$D6B165F8-CD2E-4CFE-BC57-FD1BC4A83628"
+  },
+  {
+    "item": {
+      "value": "Q390192",
+      "label": "Nicholas Soames"
+    },
+    "replaces": {
+      "value": "Q727852",
+      "label": "Bernard Jenkin"
+    },
+    "replacedBy": {
+      "value": "Q332962",
+      "label": "Michael Ancram"
+    },
+    "start": {
+      "value": "2003-11-06T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2005-05-10T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q390192$5EFB7193-37A3-40EE-942B-2A62ADA144AE"
+  },
+  {
+    "item": {
+      "value": "Q332962",
+      "label": "Michael Ancram"
+    },
+    "replaces": {
+      "value": "Q390192",
+      "label": "Nicholas Soames"
+    },
+    "replacedBy": {
+      "value": "Q332374",
+      "label": "Liam Fox"
+    },
+    "start": {
+      "value": "2005-05-10T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2005-12-06T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q332962$3EEC6B94-E537-472B-BC15-B1F62FC5B6FE"
+  },
+  {
+    "item": {
+      "value": "Q332374",
+      "label": "Liam Fox"
+    },
+    "replaces": {
+      "value": "Q332962",
+      "label": "Michael Ancram"
+    },
+    "replacedBy": {
+      "value": "Q258738",
+      "label": "Bob Ainsworth"
+    },
+    "start": {
+      "value": "2005-12-06T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2010-05-11T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q332374$411412DC-47DB-4D61-8C8A-1333AE2A459D"
+  },
+  {
+    "item": {
+      "value": "Q258738",
+      "label": "Bob Ainsworth"
+    },
+    "replaces": {
+      "value": "Q332374",
+      "label": "Liam Fox"
+    },
+    "replacedBy": {
+      "value": "Q333702",
+      "label": "Jim Murphy"
+    },
+    "start": {
+      "value": "2010-05-11T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2010-10-08T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q258738$EC0C6DDA-D348-45D6-B7FC-CB06D270A37E"
+  },
+  {
+    "item": {
+      "value": "Q333702",
+      "label": "Jim Murphy"
+    },
+    "replaces": {
+      "value": "Q258738",
+      "label": "Bob Ainsworth"
+    },
+    "replacedBy": {
+      "value": "Q285975",
+      "label": "Vernon Coaker"
+    },
+    "start": {
+      "value": "2010-10-08T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2013-10-07T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q333702$98F550BD-5DB3-4BBE-AC3E-4950E1AF4AFB"
+  },
+  {
+    "item": {
+      "value": "Q285975",
+      "label": "Vernon Coaker"
+    },
+    "replaces": {
+      "value": "Q333702",
+      "label": "Jim Murphy"
+    },
+    "replacedBy": {
+      "value": "Q302815",
+      "label": "Maria Eagle"
+    },
+    "start": {
+      "value": "2013-10-07T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2015-09-13T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q285975$562fb4f0-46c0-19a5-455d-3c932fcc9be6"
+  },
+  {
+    "item": {
+      "value": "Q302815",
+      "label": "Maria Eagle"
+    },
+    "replaces": {
+      "value": "Q285975",
+      "label": "Vernon Coaker"
+    },
+    "replacedBy": {
+      "value": "Q272408",
+      "label": "Emily Thornberry"
+    },
+    "start": {
+      "value": "2015-09-14T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2016-01-05T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q302815$E6024611-2566-4717-854F-E45E0B5EF6C6"
+  }
+]
