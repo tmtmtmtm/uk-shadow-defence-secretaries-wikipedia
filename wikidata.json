@@ -1,6 +1,48 @@
 [
   {
     "item": {
+      "value": "Q332360",
+      "label": "Denis Healey"
+    },
+    "replacedBy": {
+      "value": "Q334282",
+      "label": "Peter Thorneycroft, Baron Thorneycroft"
+    },
+    "start": {
+      "value": "1964-04-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1964-10-16T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q332360$531E42D2-EDFE-47E3-9400-023C01411562"
+  },
+  {
+    "item": {
+      "value": "Q334282",
+      "label": "Peter Thorneycroft, Baron Thorneycroft"
+    },
+    "replaces": {
+      "value": "Q332360",
+      "label": "Denis Healey"
+    },
+    "replacedBy": {
+      "value": "Q333028",
+      "label": "Enoch Powell"
+    },
+    "start": {
+      "value": "1964-10-16T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1965-07-07T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q334282$2C8A0D94-F0DA-4FEE-8E39-2970B88AB7A7"
+  },
+  {
+    "item": {
       "value": "Q333028",
       "label": "Enoch Powell"
     },
@@ -47,8 +89,127 @@
   },
   {
     "item": {
+      "value": "Q5534874",
+      "label": "Geoffrey Rippon"
+    },
+    "replaces": {
+      "value": "Q333275",
+      "label": "Reginald Maudling"
+    },
+    "replacedBy": {
+      "value": "Q332630",
+      "label": "George Thomson, Baron Thomson of Monifieth"
+    },
+    "start": {
+      "value": "1969-01-01T00:00:00Z",
+      "precision": "9"
+    },
+    "end": {
+      "value": "1970-07-08T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q5534874$7382AFC1-1F87-45CE-BBEB-58C3A5530EFB"
+  },
+  {
+    "item": {
+      "value": "Q332630",
+      "label": "George Thomson, Baron Thomson of Monifieth"
+    },
+    "replaces": {
+      "value": "Q5534874",
+      "label": "Geoffrey Rippon"
+    },
+    "replacedBy": {
+      "value": "Q333371",
+      "label": "Fred Peart, Baron Peart"
+    },
+    "start": {
+      "value": "1970-07-08T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1972-04-10T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q332630$1D3C649E-8BD4-4787-89FA-CF052BDB3566"
+  },
+  {
+    "item": {
+      "value": "Q333371",
+      "label": "Fred Peart, Baron Peart"
+    },
+    "replaces": {
+      "value": "Q332630",
+      "label": "George Thomson, Baron Thomson of Monifieth"
+    },
+    "replacedBy": {
+      "value": "Q333362",
+      "label": "Ian Gilmour, Baron Gilmour of Craigmillar"
+    },
+    "start": {
+      "value": "1972-04-10T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1974-03-04T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q333371$7ADD4D63-97D3-4A0E-8B61-A988F66E6782"
+  },
+  {
+    "item": {
+      "value": "Q333362",
+      "label": "Ian Gilmour, Baron Gilmour of Craigmillar"
+    },
+    "replaces": {
+      "value": "Q333371",
+      "label": "Fred Peart, Baron Peart"
+    },
+    "replacedBy": {
+      "value": "Q333858",
+      "label": "Peter Walker, Baron Walker of Worcester"
+    },
+    "start": {
+      "value": "1974-03-04T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1974-10-29T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q333362$DA93DCA3-59CE-4AB8-B31C-108BE732E9BA"
+  },
+  {
+    "item": {
+      "value": "Q333858",
+      "label": "Peter Walker, Baron Walker of Worcester"
+    },
+    "replaces": {
+      "value": "Q333362",
+      "label": "Ian Gilmour, Baron Gilmour of Craigmillar"
+    },
+    "replacedBy": {
       "value": "Q333145",
       "label": "George Younger, 4th Viscount Younger of Leckie"
+    },
+    "start": {
+      "value": "1974-10-29T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1975-02-18T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q333858$9E382B6F-C641-4FFE-A0FB-2020AFAE4CBE"
+  },
+  {
+    "item": {
+      "value": "Q333145",
+      "label": "George Younger, 4th Viscount Younger of Leckie"
+    },
+    "replaces": {
+      "value": "Q333858",
+      "label": "Peter Walker, Baron Walker of Worcester"
     },
     "replacedBy": {
       "value": "Q333362",
@@ -86,6 +247,29 @@
       "precision": "11"
     },
     "statement": "Q333362$FF9D7210-3038-4601-9468-29781943B9A4"
+  },
+  {
+    "item": {
+      "value": "Q334362",
+      "label": "Fred Mulley"
+    },
+    "replaces": {
+      "value": "Q333362",
+      "label": "Ian Gilmour, Baron Gilmour of Craigmillar"
+    },
+    "replacedBy": {
+      "value": "Q333259",
+      "label": "William Rodgers"
+    },
+    "start": {
+      "value": "1979-05-04T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1979-06-14T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q334362$1EED001D-885F-41AC-8DE8-BEEE0CF1B775"
   },
   {
     "item": {
@@ -132,6 +316,52 @@
       "precision": "11"
     },
     "statement": "Q333259$FD1C2F47-EE95-456F-9D8F-D0C5F599CE4A"
+  },
+  {
+    "item": {
+      "value": "Q4981019",
+      "label": "Brynmor John"
+    },
+    "replaces": {
+      "value": "Q333259",
+      "label": "William Rodgers"
+    },
+    "replacedBy": {
+      "value": "Q6257849",
+      "label": "John Silkin"
+    },
+    "start": {
+      "value": "1980-12-08T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1981-11-24T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q4981019$628B7893-35A4-49BC-85B8-45A2514A46F9"
+  },
+  {
+    "item": {
+      "value": "Q6257849",
+      "label": "John Silkin"
+    },
+    "replaces": {
+      "value": "Q4981019",
+      "label": "Brynmor John"
+    },
+    "replacedBy": {
+      "value": "Q338044",
+      "label": "Denzil Davies"
+    },
+    "start": {
+      "value": "1981-11-24T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1984-10-26T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q6257849$0E51DF9C-3776-479C-9BDB-C11032034295"
   },
   {
     "item": {
@@ -201,6 +431,29 @@
       "precision": "11"
     },
     "statement": "Q333397$A925D0AB-1499-450C-854E-3AEFA652EB81"
+  },
+  {
+    "item": {
+      "value": "Q9559",
+      "label": "John Major"
+    },
+    "replaces": {
+      "value": "Q333397",
+      "label": "David Clark, Baron Clark of Windermere"
+    },
+    "replacedBy": {
+      "value": "Q259836",
+      "label": "Sir George Young"
+    },
+    "start": {
+      "value": "1997-05-02T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1997-06-11T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q9559$B9127178-D308-40EC-A1A8-A3E124DF50DB"
   },
   {
     "item": {
@@ -454,5 +707,89 @@
       "precision": "11"
     },
     "statement": "Q302815$E6024611-2566-4717-854F-E45E0B5EF6C6"
+  },
+  {
+    "item": {
+      "value": "Q272408",
+      "label": "Emily Thornberry"
+    },
+    "replaces": {
+      "value": "Q302815",
+      "label": "Maria Eagle"
+    },
+    "replacedBy": {
+      "value": "Q20127903",
+      "label": "Clive Lewis"
+    },
+    "start": {
+      "value": "2016-01-06T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2016-06-27T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q272408$7945B0E2-CB7F-428C-A7F0-394F6CC6BFC5"
+  },
+  {
+    "item": {
+      "value": "Q20127903",
+      "label": "Clive Lewis"
+    },
+    "replaces": {
+      "value": "Q272408",
+      "label": "Emily Thornberry"
+    },
+    "replacedBy": {
+      "value": "Q392101",
+      "label": "Nia Griffith"
+    },
+    "start": {
+      "value": "2016-06-27T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2016-10-06T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q20127903$9C4587E0-7721-45A3-B37A-3D928E1B00F2"
+  },
+  {
+    "item": {
+      "value": "Q392101",
+      "label": "Nia Griffith"
+    },
+    "replaces": {
+      "value": "Q20127903",
+      "label": "Clive Lewis"
+    },
+    "replacedBy": {
+      "value": "Q615077",
+      "label": "John Healey"
+    },
+    "start": {
+      "value": "2016-10-06T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2020-04-06T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q392101$7D604F42-BEA1-4DFA-8CEB-07B81EC4DC2B"
+  },
+  {
+    "item": {
+      "value": "Q615077",
+      "label": "John Healey"
+    },
+    "replaces": {
+      "value": "Q392101",
+      "label": "Nia Griffith"
+    },
+    "start": {
+      "value": "2020-04-06T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q615077$63BB031A-3CF9-485D-8954-6B2B4766D833"
   }
 ]
